@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Full Stack Developer (MEVN/MERN)</h3>
 
 - 🔭 I’m currently working on **a task manager with RBAC and aggregation**
-- 🌱 I’m currently learning **React, problem-solving, and advanced JavaScript**
-- 💬 Ask me about **Vue.js, Node.js, MongoDB, and building full-stack apps**
+- 🌱 I’m currently learning **Advance React, problem-solving, and advanced JavaScript**
+- 💬 Ask me about **ReactJs Vue.js, Node.js, MongoDB, and building full-stack apps**
 - 📫 How to reach me: **khushnawaj14@gmail.com**
 - ⚡ Fun fact: I love writing poetry and drawing 🎨
 
@@ -13,6 +13,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React.js](https://img.shields.io/badge/React.js-35495E?style=for-the-badge&logo=react.js&logoColor=9FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
