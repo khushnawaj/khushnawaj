@@ -41,15 +41,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushnawaj14&show_icons=true&theme=radical" alt="Khushnawaj's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khushnawaj&show_icons=true&theme=radical" alt="Khushnawaj's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=khushnawaj14&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=khushnawaj&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushnawaj14&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushnawaj&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 ---
