@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently building a **Task Manager App** with **RBAC** and **Mongoose Aggregation**
-- 🌱 Learning **Advanced React**, **JavaScript Problem Solving**, and **System Design**
+- 🌱 Learning  **Sequelize**, **Redis**, **Advanced React**, **JavaScript Problem Solving**, and **System Design**
 - 💡 Exploring **Python**, **Django**, and **SQL**
 - 🖋️ I love writing **poetry** and creating **art** 🎨
 - 💬 Ask me about **React.js, Vue.js, Node.js, Python, Django, SQL, MySQL**
