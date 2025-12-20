@@ -13,7 +13,7 @@
 - 🌱 Learning  **Sequelize**, **Redis**, **Advanced React**, **JavaScript Problem Solving**, and **System Design**
 - 💡 Exploring **Python**, **Django**, and **SQL**
 - 🖋️ I love writing **poetry** and creating **art** 🎨
-- 💬 Ask me about **React.js, Vue.js, Node.js, Python, Django, SQL, MySQL**
+- 💬 Ask me about **React.js, Vue.js, Node.js, Python, Django, SQL, MySQL, PostgreSQL**
 - 📫 Reach me at: **khushnawaj14@gmail.com**
 
 ---
