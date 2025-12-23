@@ -1,16 +1,16 @@
 <!-- ===================== HERO ===================== -->
 
 <h1 align="center">
-  👋 Hi, I'm <span style="color:#4FC08D;">Khushnawaj</span>
+  👋 Hi, I’m <span style="color:#4FC08D;">Khushnawaj</span>
 </h1>
 
 <h3 align="center">
-  Full Stack Developer (MERN / MEVN) • Backend-Oriented • Production-Ready Apps
+  Full Stack Developer (MERN / MEVN) • Backend-Focused • Building Things That Survive Production
 </h3>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=4FC08D&center=true&vCenter=true&width=780&lines=I+build+real-world+web+applications;MERN+%7C+MEVN+Full+Stack+Developer;React+%7C+Vue+%7C+Node+%7C+MongoDB;Auth%2C+RBAC%2C+Cloudinary%2C+Payments;Debugging+production+issues+with+confidence" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=4FC08D&center=true&vCenter=true&width=800&lines=I+build+real-world+web+applications;MERN+%7C+MEVN+Full+Stack+Developer;React+%7C+Vue+%7C+Node+%7C+MongoDB;Auth%2C+RBAC%2C+Cloudinary%2C+Payments;Learning+by+building+and+debugging" 
   />
 </p>
 
@@ -28,24 +28,20 @@
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
-
-## 🧭 About Me
+## 🧭 Who I Am
 
 I’m a **Full Stack Developer with 2+ years of hands-on experience** working across  
-**MERN and MEVN stacks**, focusing strongly on **backend logic and production stability**.
+**MERN and MEVN stacks**, with a strong inclination towards **backend logic and production stability**.
 
-What defines my work:
-- Building features that **actually ship**
-- Debugging **production-only bugs**
-- Writing **clean APIs**
-- Working on **admin dashboards & real data**
+I enjoy:
+- turning requirements into **clean APIs**
+- fixing bugs that only appear **after deployment**
+- building **admin dashboards** with real data
+- learning deeply by **shipping and breaking things**
 
-Outside code, I write **poetry** and create **digital art**, which sharpens how I think about structure, flow, and clarity.
+Outside of development, I write **poetry** and create **digital art**, which helps me think more clearly about structure, flow, and expression.
 
 ---
-
-<!-- ===================== FEATURED PROJECT ===================== -->
 
 ## 🚀 Featured Project
 
@@ -64,35 +60,33 @@ React (Vite), Node.js, Express.js, MongoDB, Cloudinary, Razorpay
 Frontend → Vercel  
 Backend → Render  
 
-**What I built & handled**
+**What this project demonstrates**
 - JWT Authentication (Admin & User)
 - Role-Based Access Control
-- Admin dashboard (Products, Categories, Orders)
-- Product CRUD with Cloudinary uploads
+- Admin dashboard for products, categories & orders
+- Product CRUD with Cloudinary image uploads
 - Cart, Wishlist, Coupons & Discounts
-- Pagination & filtering (production bugs resolved)
-- CORS & environment-based configuration
-- Secure API handling
+- Featured products carousel
+- Pagination & filtering (production issues fixed)
+- Secure API handling & environment separation
 
-This project represents my ability to **build → deploy → debug → improve** a production system.
+This project reflects my ability to **build → deploy → debug → refine** a real-world application.
 
 ---
 
-<!-- ===================== OTHER PROJECTS ===================== -->
-
-## 🧩 Other Projects
+## 🧩 Other Things I’ve Built
 
 ### 📋 Task Manager (In Progress)
-- MERN / MEVN stack
-- RBAC (Admin, HR, Manager, Employee)
+- MERN / MEVN architecture
+- Role-Based Access Control (Admin, HR, Manager, Employee)
 - JWT Authentication
-- Task assignment & tracking
+- Task assignment & status tracking
 - Mongoose aggregation reports
-- Backend-first scalable architecture
+- Backend-first, scalable design
 
 ### 🎓 E-Learning Platform
-- Course uploads & purchases
-- Live classes (WebRTC / Peer.js / Socket.io)
+- Course upload & purchase system
+- Live classes using WebRTC / Peer.js / Socket.io
 - Student & Teacher dashboards
 
 ### 🏢 HR Management System
@@ -100,15 +94,13 @@ This project represents my ability to **build → deploy → debug → improve**
 - Role-based dashboards
 
 ### 🗳️ Election Campaign Platform
-- Nomination & voting
+- Nomination & voting flows
 - Payment-based registration
 - Admin control panel
 
 ---
 
-<!-- ===================== SKILLS ===================== -->
-
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Tools
 
 ### 🌐 Frontend
 <p>
@@ -146,36 +138,34 @@ This project represents my ability to **build → deploy → debug → improve**
 
 ---
 
-<!-- ===================== STATS ===================== -->
-
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajay7906&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khushnawaj&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ajay7906&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=khushnawaj&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay7906&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushnawaj&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 ---
 
-## ✨ Philosophy
+## ✨ How I Think About Code
 
-> I like writing code that survives production, teaches me through bugs, and grows stronger with every release.
+> I try to write code that survives production, explains itself, and teaches me something every time it breaks.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Reach Me
 
-- 📧 Email: **khushnawaj14@gmail.com**
+- 📧 **khushnawaj14@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/17-khushnawaj/
 - 🌐 Live Project: https://scentiva-lac.vercel.app/
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajay7906&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=khushnawaj14&style=flat-square&color=blue" />
 </p>
