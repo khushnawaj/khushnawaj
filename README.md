@@ -1,103 +1,81 @@
 <h1 align="center">Hi 👋, I'm Khushnawaj</h1>
 <h3 align="center">
-Full Stack Developer (MERN / MEVN) | Backend-Oriented | Production Debugger | Creative Thinker
+A Passionate Full Stack Developer (MERN / MEVN) | Python Enthusiast | Creative Artist
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4FC08D&center=true&width=620&lines=Building+Real-World+Production+Apps;MERN+%7C+MEVN+Full+Stack+Developer;React%2C+Vue%2C+Node.js+%26+MongoDB;REST+APIs%2C+Auth%2C+RBAC%2C+Cloudinary;Debugging+Production+Issues+with+Confidence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4FC08D&center=true&width=520&lines=Building+Full-Stack+Apps;MERN+%7C+MEVN+Developer;React%2C+Vue%2C+Node.js;Python+%7C+Django+%7C+SQL;Lover+of+Code+%26+Creativity;Open+to+Collaborations" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 Full Stack Developer with **2+ years of experience** in **MERN & MEVN**
-- 🔭 Currently working on a **production-grade E-Commerce platform (Scentiva)**
-- 🛠️ Strong focus on **Backend logic, APIs, authentication, and data consistency**
-- 🌍 Experience deploying apps on **Vercel & Render**
-- 🧠 Comfortable debugging **production-only bugs** (CORS, env vars, pagination, auth)
-- 🎨 Creative side: I write **poetry** and create **digital art**
+- 🔭 Currently working on a **production-ready E-Commerce app (Scentiva)**
+- 🛠️ Building real-world features: **Auth, RBAC, Pagination, Image Uploads, Admin Panels**
+- 🌱 Learning **Sequelize**, **Redis**, **Advanced React**, **JavaScript Problem Solving**, **System Design**
+- 💡 Exploring **Python**, **Django**, **SQL**
+- 🖋️ I love writing **poetry** and creating **art** 🎨
+- 💬 Ask me about **React.js, Vue.js, Node.js, Python, Django, SQL, MySQL, PostgreSQL**
 - 📫 Reach me at: **khushnawaj14@gmail.com**
 
 ---
 
-## 🧩 Current Projects
+## 🧩 Projects
 
-### 🛒 Scentiva — Full Stack E-Commerce Platform
-**Tech:** React, Node.js, Express, MongoDB, Cloudinary, Razorpay  
-**Status:** Live & actively improving
+### 🛒 Scentiva — E-Commerce Platform (Live)
+**Tech:** React, Node.js, Express, MongoDB, Cloudinary, Razorpay
 
-**Key Features:**
-- Authentication with JWT (Admin & User roles)
-- Admin dashboard (Products, Categories, Orders)
-- Product CRUD with **Cloudinary image uploads**
-- Wishlist, Cart, Coupons & Discounts
-- Featured products carousel
-- Pagination (fixed production issues)
-- Secure API handling with proper CORS & env separation
-- Deployed on **Vercel (Frontend)** & **Render (Backend)**
+- JWT Authentication (Admin & User)
+- Product, Category & Order Management
+- Cloudinary Image Uploads
+- Cart, Wishlist, Coupons & Discounts
+- Pagination & Filtering (production issues resolved)
+- Deployed on **Vercel** (Frontend) & **Render** (Backend)
 
 ---
 
-### 📋 Task Manager System (In Progress)
+### 📋 Task Manager Application (In Progress)
 **Tech:** MERN / MEVN
 
-**Planned & Implemented Features:**
 - Role-Based Access Control (Admin, HR, Manager, Employee)
+- Task assignment & tracking
 - JWT Authentication
-- Task assignment & status tracking
 - Mongoose Aggregations for reports
-- Scalable backend-first architecture
 
 ---
 
-### 🎓 Previous Projects
-- **E-Learning Platform**  
-  - Live classes (WebRTC, Peer.js, Socket.io)
-  - Course purchase system
-  - Student & Teacher dashboards
-- **HR Management System (HRMS)**  
-  - Employee management (up to 50 users)
-  - Roles, permissions, dashboards
-- **Election Campaign Platform**  
-  - Nomination, voting, payments, admin controls
+## 🛠️ Tech Stack (Complete)
 
----
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+</p>
 
-## 🛠️ Skills & Tech Stack
+### 🔙 Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
 
-### Frontend
-- React.js (Vite, React Router v6)
-- Vue.js (Vuex, modular components)
-- Tailwind CSS
-- Responsive UI & Admin Dashboards
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-### Backend
-- Node.js, Express.js
-- REST API Design
-- JWT Authentication & Authorization
-- Role-Based Access Control (RBAC)
-- Mongoose & MongoDB Aggregations
-
-### Databases
-- MongoDB (Atlas)
-- MySQL
-- PostgreSQL
-- SQL fundamentals
-
-### Tools & DevOps
-- Git & GitHub (issues, commits, workflows)
-- Cloudinary (image handling)
-- Vercel & Render deployments
-- Debugging production issues
-- Environment variable management
-
-### Currently Learning
-- Redis
-- Sequelize ORM
-- Advanced React patterns
-- System Design (basics)
-- JavaScript problem solving
+### 🔌 Realtime & Tools
+<p>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
@@ -117,9 +95,9 @@ Full Stack Developer (MERN / MEVN) | Backend-Oriented | Production Debugger | Cr
 
 ---
 
-## ✨ Developer Mindset
+## ✨ Quote
 
-> I enjoy working on systems that actually go to production — fixing what breaks, improving what works, and learning deeply from real bugs.
+> “Stay hungry, stay foolish.” — *Steve Jobs*
 
 ---
 
@@ -140,5 +118,5 @@ Full Stack Developer (MERN / MEVN) | Backend-Oriented | Production Debugger | Cr
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khushnawaj&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=khushnawaj14&style=flat-square&color=blue" />
 </p>
