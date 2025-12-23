@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Khushnawaj</h1>
+<!-- ===================== HERO ===================== -->
+
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#4FC08D;">Khushnawaj</span>
+</h1>
 
 <h3 align="center">
-Full Stack Developer (MERN / MEVN) | Backend-Focused | Production-Ready Apps
+  Full Stack Developer (MERN / MEVN) • Backend-Oriented • Production-Ready Apps
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4FC08D&center=true&width=720&lines=Building+Real-World+Production+Applications;MERN+%7C+MEVN+Full+Stack+Developer;React%2C+Vue%2C+Node.js+%26+MongoDB;Auth%2C+RBAC%2C+Cloudinary%2C+Payments;Debugging+%26+Shipping+with+Confidence" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=4FC08D&center=true&vCenter=true&width=780&lines=I+build+real-world+web+applications;MERN+%7C+MEVN+Full+Stack+Developer;React+%7C+Vue+%7C+Node+%7C+MongoDB;Auth%2C+RBAC%2C+Cloudinary%2C+Payments;Debugging+production+issues+with+confidence" 
+  />
 </p>
 
 <p align="center">
@@ -22,19 +28,24 @@ Full Stack Developer (MERN / MEVN) | Backend-Focused | Production-Ready Apps
 
 ---
 
-## 👨‍💻 About Me
+<!-- ===================== ABOUT ===================== -->
 
-I’m a **Full Stack Developer with 2+ years of hands-on experience** building and maintaining real-world applications using **MERN and MEVN stacks**.
+## 🧭 About Me
 
-I enjoy:
-- Designing **clean APIs**
-- Fixing **production-only bugs**
-- Working on **admin dashboards**
-- Shipping features that real users actually use
+I’m a **Full Stack Developer with 2+ years of hands-on experience** working across  
+**MERN and MEVN stacks**, focusing strongly on **backend logic and production stability**.
 
-Alongside development, I also write **poetry** and create **digital art**, which helps me bring clarity and creativity into problem-solving.
+What defines my work:
+- Building features that **actually ship**
+- Debugging **production-only bugs**
+- Writing **clean APIs**
+- Working on **admin dashboards & real data**
+
+Outside code, I write **poetry** and create **digital art**, which sharpens how I think about structure, flow, and clarity.
 
 ---
+
+<!-- ===================== FEATURED PROJECT ===================== -->
 
 ## 🚀 Featured Project
 
@@ -46,53 +57,56 @@ Alongside development, I also write **poetry** and create **digital art**, which
   </a>
 </p>
 
-**Tech Stack:**  
+**Tech Stack**  
 React (Vite), Node.js, Express.js, MongoDB, Cloudinary, Razorpay  
 
-**Deployment:**  
+**Deployment**  
 Frontend → Vercel  
 Backend → Render  
 
-**Key Highlights:**
+**What I built & handled**
 - JWT Authentication (Admin & User)
-- Role-based access control
+- Role-Based Access Control
 - Admin dashboard (Products, Categories, Orders)
-- Product CRUD with Cloudinary image uploads
+- Product CRUD with Cloudinary uploads
 - Cart, Wishlist, Coupons & Discounts
-- Featured products carousel
-- Pagination & filtering (fixed production issues)
-- Secure API handling & CORS configuration
-- Environment-based configs (local vs production)
+- Pagination & filtering (production bugs resolved)
+- CORS & environment-based configuration
+- Secure API handling
 
-This project reflects my ability to **build, deploy, debug, and improve** a production-grade system.
+This project represents my ability to **build → deploy → debug → improve** a production system.
 
 ---
+
+<!-- ===================== OTHER PROJECTS ===================== -->
 
 ## 🧩 Other Projects
 
-### 📋 Task Manager Application (In Progress)
+### 📋 Task Manager (In Progress)
 - MERN / MEVN stack
-- Role-Based Access Control (Admin, HR, Manager, Employee)
-- Task assignment & status tracking
+- RBAC (Admin, HR, Manager, Employee)
 - JWT Authentication
-- Mongoose Aggregations for reports
-- Backend-first, scalable architecture
+- Task assignment & tracking
+- Mongoose aggregation reports
+- Backend-first scalable architecture
 
 ### 🎓 E-Learning Platform
-- Course upload & purchase system
-- Live classes using WebRTC / Peer.js / Socket.io
+- Course uploads & purchases
+- Live classes (WebRTC / Peer.js / Socket.io)
 - Student & Teacher dashboards
 
-### 🏢 HR Management System (HRMS)
+### 🏢 HR Management System
 - Employee management (up to 50 users)
-- Roles, permissions, dashboards
+- Role-based dashboards
 
 ### 🗳️ Election Campaign Platform
-- Nomination & voting system
+- Nomination & voting
 - Payment-based registration
-- Admin controls
+- Admin control panel
 
 ---
+
+<!-- ===================== SKILLS ===================== -->
 
 ## 🛠️ Skills & Technologies
 
@@ -132,34 +146,36 @@ This project reflects my ability to **build, deploy, debug, and improve** a prod
 
 ---
 
-## 📊 GitHub Stats & Activity
+<!-- ===================== STATS ===================== -->
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushnawaj&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajay7906&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=khushnawaj&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ajay7906&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushnawaj&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay7906&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 ---
 
-## ✨ Developer Philosophy
+## ✨ Philosophy
 
-> I focus on writing code that survives production, scales with users, and teaches me something every time it breaks.
+> I like writing code that survives production, teaches me through bugs, and grows stronger with every release.
 
 ---
 
-## 📫 Contact & Presence
+## 📫 Connect With Me
 
 - 📧 Email: **khushnawaj14@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/17-khushnawaj/
 - 🌐 Live Project: https://scentiva-lac.vercel.app/
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khushnawaj14&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=ajay7906&style=flat-square&color=blue" />
 </p>
